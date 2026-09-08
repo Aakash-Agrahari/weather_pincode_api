@@ -3,6 +3,7 @@ import { getWeather } from '../controllers/weather.controller.js';
 
 const router = Router();
 
+//this is for swagger documentation of the API
 /**
  * @openapi
  * /api/weather:

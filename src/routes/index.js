@@ -5,6 +5,7 @@ const router = Router();
 
 router.use('/api', weatherRoutes);
 
+//this is for swagger documentation of the API
 /**
  * @openapi
  * /health:
